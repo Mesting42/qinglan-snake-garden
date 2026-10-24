@@ -49,3 +49,14 @@ npm test
 - 晨光温室、溪畔花园、月色植物园共 12 个关卡
 - 无尽拾光与按本地日期固定路线的今日花径
 - 星级结算、花纹解锁、音效合成与本地进度保存
+
+<!-- pixel-pier-game-listing:start -->
+## Game listing / 游戏展示
+
+- **Game developer / 游戏开发者:** Mest ([@Mesting42](https://github.com/Mesting42))
+- **Pixel Pier listing / 游戏展示页面:** [Qinglan Snake Garden](https://riverglint.link/games/qinglan-snake-garden/)
+
+This game is listed on Pixel Pier with a play entry and game guide. This link identifies a game-development and listing relationship; it does not identify the developer as the website operator or operating entity.
+
+本游戏在 Pixel Pier 展示，并提供游玩入口与游戏指南。此链接仅表示游戏开发与展示关联，不代表开发者是该网站的运营者或运营主体。
+<!-- pixel-pier-game-listing:end -->
